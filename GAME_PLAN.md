@@ -2,6 +2,7 @@
 
 **Who you are:** Hu riding Night, a black dragon with green eyes
 **What you do:** fly sideways, dodge rocks and find Hu's friends - you can switch friends whenever you want
+**Controls:** you move with the arrow keys
 **How you win:** find 4 friends scattered around the levels, and at the end of the ten levels defeat the Rock Dragon
 **How you lose:** if you get hit ten times
 **Gets harder:** the rocks
